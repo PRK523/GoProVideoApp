@@ -1,0 +1,16 @@
+PODS:
+  - ABVideoRangeSlider (0.1.5)
+
+DEPENDENCIES:
+  - ABVideoRangeSlider
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ABVideoRangeSlider
+
+SPEC CHECKSUMS:
+  ABVideoRangeSlider: f2b6d894170bd0951693de4c1ad625f7f9f8b6a5
+
+PODFILE CHECKSUM: 3f92a6531481753a502f7bf18af01fc0894ed279
+
+COCOAPODS: 1.5.2
